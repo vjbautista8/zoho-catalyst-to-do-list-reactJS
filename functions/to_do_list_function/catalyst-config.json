@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "to_do_list_function",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
