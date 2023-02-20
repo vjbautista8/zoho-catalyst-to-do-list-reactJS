@@ -2,7 +2,7 @@
 
 Simple To Do List application built in reactJS with Zoho Catalyst Database.
 
-[DEMO LINK](https://todolist-771945458.development.catalystserverless.com/app/)
+[DEMO LINK](https://todolist-771945458.development.catalystserverless.com/app/){:target="\_blank" rel="noopener"}
 
 ## Screenshot/s
 
